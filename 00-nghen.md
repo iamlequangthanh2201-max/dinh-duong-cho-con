@@ -13,23 +13,29 @@
 
 ## Làm gì khi con nghẹn
 
-::: sos
-#### Con dưới 1 tuổi
-- Úp con sấp dọc cẳng tay bố, đầu thấp hơn thân, đỡ hàm
-- **5 lần vỗ lưng** — gốc bàn tay, giữa hai xương bả vai
-- Lật ngửa, **5 lần ấn ngực** — hai ngón tay, giữa ngực, ngay dưới đường nối hai núm vú
-- Lặp lại cho tới khi dị vật ra hoặc xe cấp cứu tới
+### Con dưới 1 tuổi
 
-#### Con trên 1 tuổi
-- Đứng hoặc quỳ sau lưng con, cho con cúi người về trước
-- **5 lần vỗ lưng** — gốc bàn tay, giữa hai xương bả vai
-- **5 lần ấn bụng** — nắm tay đặt trên rốn dưới mũi ức, giật mạnh vào trong và lên trên
-- Lặp lại cho tới khi dị vật ra hoặc xe cấp cứu tới
+::: figs
+- nghen-1 | **1 · Vỗ lưng.** Úp con sấp dọc cẳng tay bố, **đầu thấp hơn thân**, tay đỡ hàm. Vỗ **5 lần** bằng gốc bàn tay, giữa hai xương bả vai.
+- nghen-2 | **2 · Ấn ngực.** Lật ngửa, vẫn dọc cẳng tay. Ấn **5 lần** bằng **hai ngón tay**, giữa ngực, ngay dưới đường nối hai núm vú.
+:::
 
-#### Con lả đi, không phản ứng
-- Đặt con nằm ngửa trên mặt phẳng cứng
-- **Gọi 115 ngay** — bật loa ngoài, để tay rảnh
-- Bắt đầu ép tim, và làm theo hướng dẫn của tổng đài
+Lặp lại 1 → 2 cho tới khi dị vật ra, hoặc xe cấp cứu tới.
+
+### Con trên 1 tuổi
+
+::: figs
+- nghen-3 | **3 · Vỗ lưng.** Đứng hoặc quỳ sau lưng con, cho con **cúi người về trước**. Vỗ **5 lần** bằng gốc bàn tay, giữa hai xương bả vai.
+- nghen-4 | **4 · Ấn bụng.** Nắm tay đặt **trên rốn, dưới mũi ức**. Giật mạnh **5 lần**, vào trong và lên trên.
+:::
+
+Lặp lại 3 → 4 cho tới khi dị vật ra, hoặc xe cấp cứu tới.
+
+### Con lả đi, không phản ứng
+
+::: figs
+- nghen-5 | **5 · Gọi 115.** Đặt con nằm ngửa trên mặt phẳng cứng. Gọi ngay, **bật loa ngoài** để tay bố còn rảnh.
+- nghen-6 | **6 · Ép tim.** Bắt đầu ép tim giữa ngực, và làm theo hướng dẫn của tổng đài cho tới khi xe tới.
 :::
 
 ## Không bao giờ làm bốn việc này

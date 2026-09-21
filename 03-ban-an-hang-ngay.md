@@ -4,9 +4,12 @@
 
 **Con ăn ít đi sau một tuổi là đúng, không phải hỏng.**
 
-Năm đầu con tăng cân nhanh nhất đời. Từ năm thứ hai tốc độ ấy chậm hẳn lại — nên nhu cầu ăn cũng chậm lại. Đứa trẻ mười tháng ăn hết bát rồi đứa trẻ mười tám tháng chê nửa bát: **đó là cùng một đứa trẻ khoẻ mạnh**, không phải một đứa vừa sinh tật.
-
-Phần lớn nỗi khổ ở chương này bắt đầu từ chỗ bố mẹ lấy khẩu phần của năm đầu làm chuẩn cho mười năm sau.
+::: grp p | Vì sao
+- **Năm đầu con tăng cân nhanh nhất đời** — nên ăn nhiều nhất đời
+- **Từ năm thứ hai tốc độ ấy chậm hẳn** — nhu cầu ăn chậm theo
+- **Mười tháng ăn hết bát, mười tám tháng chê nửa bát** — cùng một đứa trẻ khoẻ mạnh, không phải một đứa vừa sinh tật
+- **Gốc của phần lớn nỗi khổ ở chương này** — bố mẹ lấy khẩu phần của năm đầu làm chuẩn cho mười năm sau
+:::
 
 ## Nhịp ngày
 

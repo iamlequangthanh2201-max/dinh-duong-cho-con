@@ -146,7 +146,7 @@ Một món mới mỗi lần, lượng đầu thìa, theo dõi hai ngày. Sữa 
 | 5 | Cháo + tiết luộc dằm + rau muống băm | Cháo + cá lóc + bầu | Đu đủ miếng | Cháo + trứng + khoai tây |
 | 6 | Cháo + gan lợn băm + bí đỏ *(tuần 1 lần)* | Cháo + thịt bò + súp lơ hấp | Quả bơ que | Cháo + đậu hủ + rau dền |
 | 7 | Cháo + cá thu gỡ xương + cải bó xôi | Cháo + tôm + mướp | Chuối cắt dọc | Cháo + thịt gà + cà rốt |
-| CN | Cháo + trứng + cà chua + vừng rắc | Cháo + cá hồi + bí đỏ que | Sữa chua + xoài dằm | Cháo + đậu đen ninh nhừ + rau ngót |
+| CN | Cháo + trứng + cà chua + mè rắc | Cháo + cá hồi + bí đỏ que | Sữa chua + xoài dằm | Cháo + đậu đen ninh nhừ + rau ngót |
 
 ### Bộ 4 · 12–18 tháng — ăn cùng mâm, 3 bữa + 2 phụ
 
@@ -158,7 +158,7 @@ Một món mới mỗi lần, lượng đầu thìa, theo dõi hai ngày. Sữa 
 | 5 | Khoai lang + sữa | Cơm nát · tiết luộc · canh rau ngót thịt băm · cà chua cắt tư | Cơm nát · cá lóc hấp · bầu luộc | Quả bơ · sữa chua |
 | 6 | Cháo cá + bí đỏ | Cơm nát · gan lợn xào nhạt *(tuần 1 lần)* · canh mướp · súp lơ hấp | Cơm nát · đậu hủ · rau dền luộc | Chuối · phô mai |
 | 7 | Bún nước trong + thịt băm | Cơm nát · tôm rim nhạt · canh bí xanh · rau ngót | Cơm nát · trứng hấp · cải bó xôi | Dưa hấu bỏ hạt · sữa |
-| CN | Cháo thịt bò + vừng rắc | Cơm nát · cá hồi áp chảo nhạt · canh rau ngót · cà rốt que | Cơm nát · đậu đen ninh · mồng tơi | Xoài dằm · sữa chua |
+| CN | Cháo thịt bò + mè rắc | Cơm nát · cá hồi áp chảo nhạt · canh rau ngót · cà rốt que | Cơm nát · đậu đen ninh · mồng tơi | Xoài dằm · sữa chua |
 
 ### Bộ 5 · 1–3 tuổi — mâm chung của nhà
 

@@ -4,13 +4,13 @@
 
 ## Nguyên tắc bao trùm · BẢN GỐC
 
-**Con không học ăn từ những gì bố nói về thức ăn. Con sao chép cách bố ngồi vào bàn ăn.**
-
-Và một câu chia việc, dùng lại suốt bảy chương sau:
-
-**Bố quyết ăn gì, khi nào, ở đâu. Con quyết ăn bao nhiêu, và có ăn hay không.**
-
-Mỗi lần bố lấn sang phần của con — ép thêm một thìa, mặc cả ba miếng nữa — là bố lấy đi đúng thứ đang cần con tự giữ.
+::: grp p | Bốn dòng chạy suốt bảy chương sau
+- **Con sao chép, con không nghe** — con không học ăn từ những gì bố nói về thức ăn
+- **Bố quyết ăn gì** — món nào lên mâm, nấu thế nào
+- **Bố quyết khi nào, ở đâu** — mấy giờ ăn, ngồi ở đâu, ăn trong bao lâu
+- **Con quyết ăn bao nhiêu, và có ăn hay không** — kể cả khi câu trả lời là không ăn
+- **Lấn sang phần của con là phá** — ép thêm một thìa, mặc cả ba miếng nữa, là lấy mất thứ đang cần con tự giữ
+:::
 
 ::: grp p | Việc bố làm, để con nhìn thấy
 - **Ăn cùng mâm, cùng món** — ngồi xuống ăn thật, không đứng xúc cho con rồi ăn sau
@@ -74,8 +74,12 @@ Mỗi lần bố lấn sang phần của con — ép thêm một thìa, mặc c�
   - **Đừng nói:** "Trưa con đã bỏ rồi đấy nhé"
 :::
 
-::: tip
-**Nhà có ông bà thì làm thế nào.** Bố không sửa được câu của người khác, và không nên sửa giữa bữa — con sẽ nhớ cuộc cãi vã lâu hơn nhớ bài học. Bố chỉ giữ đúng phần của bố: **bố không ép, và bố không đứng về phía người đang ép.** Khi ông bà giục, bố nói một câu trung tính rồi chuyển chuyện: "Cháu no thì thôi bà ạ." Chuyện thống nhất với ông bà nằm ở chương 02 và chương 05, và nói lúc không có bữa ăn nào đang diễn ra. Vài câu lỡ miệng không phá được gì. Thứ phá là nếp hằng ngày — nhắm vào nếp, bỏ qua các câu lẻ.
+::: card | Nhà có ông bà thì làm thế nào
+- **Không sửa lưng giữa bữa** — con nhớ cuộc cãi vã lâu hơn nhớ bài học
+- **Bố chỉ giữ phần của bố** — bố không ép, và bố không đứng về phía người đang ép
+- **Ông bà giục thì một câu trung tính rồi chuyển chuyện** — *"Cháu no thì thôi bà ạ."*
+- **Nói riêng, lúc không có bữa nào đang diễn ra** — cách nói ở chương 02 và chương 05
+- **Nhắm vào nếp hằng ngày, bỏ qua các câu lẻ** — vài câu lỡ miệng không phá được gì
 :::
 
 Cơ sở: đây là chỗ có bằng chứng chắc nhất trong cả quyển. Các nghiên cứu về nuôi ăn kiểm soát cho thấy ép ăn và ra điều kiện đi kèm với việc trẻ ăn ít hơn, kén hơn và mất khả năng tự điều chỉnh. Chiều nhân quả chưa chứng minh trọn vẹn — có thể trẻ kén khiến bố mẹ ép, chứ không chỉ ngược lại — nhưng chưa có nghiên cứu nào cho thấy ép ăn giúp trẻ ăn tốt hơn.

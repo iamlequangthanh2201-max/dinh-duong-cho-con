@@ -169,7 +169,7 @@ Kho sắt con mang theo từ trong bụng mẹ cạn quanh sáu tháng. Từ đ�
 - **Cho vào buổi sáng hoặc trưa**, ngày trong tuần, lúc bố mẹ tỉnh táo và phòng khám còn mở
 - **Theo dõi hai ngày** rồi mới thêm món mới khác
 - **Món qua được thì cho ăn lại đều đặn** — thử một lần rồi bỏ quên vài tháng thì cơ thể con quên mất
-- **Nhóm cần đưa vào sớm chứ không né** — trứng, đậu phộng và các loại hạt ở dạng bơ hoặc xay mịn, cá, tôm cua, sữa bò trong món ăn, đậu nành, lúa mì, vừng
+- **Nhóm cần đưa vào sớm chứ không né** — trứng, đậu phộng và các loại hạt ở dạng bơ hoặc xay mịn, cá, tôm cua, sữa bò trong món ăn, đậu nành, lúa mì, mè
 :::
 
 ::: grp n | Không làm

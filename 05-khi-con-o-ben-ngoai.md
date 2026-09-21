@@ -4,13 +4,13 @@
 
 **Bữa ở nhà quyết định. Bữa ngoài không phá được gì.**
 
-Con ăn hai mươi bữa mỗi tuần ở nhà thì ba bữa ở nhà bà, ở lớp, ở đám cưới không đổi được gì. Cố kiểm soát ba bữa đó thì mất nhiều hơn được: mất quan hệ với ông bà, mất cô giáo về phe mình, và dạy con rằng ăn uống là chuyện phải lo.
-
-**Bố chỉ làm ba việc**
-
-- **Chuẩn bị con** — trước khi đi, không phải lúc đang ở đó
-- **Thương lượng với người lớn** — ít điều, một lần, không sửa lưng giữa bữa
-- **Không phá lại ở nhà** — về nhà thì nhịp nhà chạy tiếp: không bù, không phạt, không bình luận
+::: grp p | Vì sao, và bố làm gì
+- **Hai mươi bữa ở nhà mỗi tuần mới là thứ quyết định** — ba bữa ở nhà bà, ở lớp, ở đám cưới không đổi được gì
+- **Cố kiểm soát ba bữa đó thì mất nhiều hơn được** — mất quan hệ với ông bà, mất cô giáo về phe mình, và dạy con rằng ăn uống là chuyện phải lo
+- **Việc 1 · Chuẩn bị con** — trước khi đi, không phải lúc đang ở đó
+- **Việc 2 · Thương lượng với người lớn** — ít điều, một lần, không sửa lưng giữa bữa
+- **Việc 3 · Không phá lại ở nhà** — về nhà thì nhịp nhà chạy tiếp: không bù, không phạt, không bình luận
+:::
 
 ::: grp n | Bố không làm
 - **Không sửa lưng người lớn trước mặt con** — con nhớ cuộc va chạm lâu hơn nhớ bài học

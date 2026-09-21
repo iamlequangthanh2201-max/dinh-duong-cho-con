@@ -272,6 +272,16 @@ li.lab-no .lab{color:var(--warn-ink);background:var(--warn-wash)}
 .tl-card>p:first-child{margin-top:0}
 .tl-i.dim .tl-card{opacity:.62}
 
+/* ---------- hình minh hoạ ---------- */
+.figs{display:grid;gap:12px;margin:16px 0}
+@media(min-width:720px){.figs{grid-template-columns:1fr 1fr}}
+.fig{margin:0;background:var(--surface);border:var(--hair);border-radius:var(--r-card);
+  overflow:hidden;display:flex;flex-direction:column}
+.fig img{display:block;width:100%;height:auto;background:var(--ground)}
+.fig figcaption{padding:11px 15px 13px;font-size:12.6px;line-height:1.5;color:var(--ink-2);
+  border-top:1px solid var(--line-2)}
+.fig figcaption b{color:var(--ink)}
+
 /* ---------- ô tìm kiếm và chip ---------- */
 .tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:0}
 .searchbox{background:var(--surface);border:var(--hair);border-radius:var(--r-card);

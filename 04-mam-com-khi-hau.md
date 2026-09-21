@@ -34,7 +34,7 @@ Người Nhật gọi cấu trúc bữa ăn của họ là **một canh ba món*
 | **Kẽm** | Hàu, thịt bò, thịt lợn nạc, gan, trứng, hạt bí, đậu ngâm kỹ | Cơm trắng · cháo loãng · nước hầm xương · bún phở nước · rau củ · quả |
 | **Sắt** | Thịt đỏ, tiết, gan *(1 lần/tuần)*, cá, rau dền, rau ngót, đậu đen | Sữa tươi · sữa chua · phô mai · cơm, cháo trắng · nước hầm xương · khoai, bún, miến |
 | **Vitamin D** | Cá béo, lòng đỏ trứng — **và không món nào đủ** | Gần như mọi món trong mâm cơm Việt. Đây là vi chất phải lấy từ nắng hoặc từ viên uống, không lấy từ chợ |
-| **Canxi** | Cá nhỏ ăn cả xương *(cá cơm, tép)*, đậu hủ, vừng, rau dền, sữa, sữa chua | Nước hầm xương · cá phi lê bỏ xương · thịt nạc · cơm · rau củ nhạt màu |
+| **Canxi** | Cá nhỏ ăn cả xương *(cá cơm, tép)*, đậu hủ, mè, rau dền, sữa, sữa chua | Nước hầm xương · cá phi lê bỏ xương · thịt nạc · cơm · rau củ nhạt màu |
 
 **Ba dòng rút ra**
 

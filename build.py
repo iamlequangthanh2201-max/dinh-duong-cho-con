@@ -3,7 +3,7 @@
 
 Sửa nội dung ở file .md rồi chạy:  python3 build.py
 """
-import html, re, pathlib
+import base64, html, re, pathlib
 
 HERE = pathlib.Path(__file__).parent
 
@@ -185,6 +185,24 @@ def render_block(head, inner):
         title = parts[1] if len(parts) > 1 else ''
         return ('<div class="card">' + ('<h4>' + inline(title) + '</h4>' if title else '')
                 + md(inner) + '</div>')
+
+    if kind == 'figs':
+        out = ['<div class="figs">']
+        for ln in inner:
+            t = ln.strip()
+            if not t.startswith('- '):
+                continue
+            bits = [x.strip() for x in t[2:].split('|')]
+            name, cap = bits[0], (bits[1] if len(bits) > 1 else '')
+            f = HERE / 'img' / (name + '.png')
+            if not f.exists():
+                continue
+            b64 = base64.b64encode(f.read_bytes()).decode('ascii')
+            out.append('<figure class="fig"><img alt="" loading="lazy" '
+                       'src="data:image/png;base64,' + b64 + '">'
+                       '<figcaption>' + inline(cap) + '</figcaption></figure>')
+        out.append('</div>')
+        return ''.join(out)
 
     if kind == 'rows':
         return md(inner, rows=True)

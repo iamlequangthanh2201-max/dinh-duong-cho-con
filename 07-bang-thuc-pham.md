@@ -123,7 +123,7 @@ Mở ở chợ, mở lúc đang nấu. Không đọc từ đầu — gõ tên m�
 - **Mùa** — quanh năm
 - **Lưu ý** — ⚠ không hạt nguyên dưới 5 tuổi. Nhóm dị ứng mạnh nhất — cho ăn sớm, rất ít một. Nhà có tiền sử dị ứng nặng hoặc con chàm nặng thì hỏi bác sĩ trước
 
-## Vừng 🟤 · từ 7 tháng
+## Mè 🟤 · từ 7 tháng
 - **Giàu** — canxi · sắt · kẽm
 - **Theo tuổi** — rang, xay mịn, rắc vào cháo
 - **Mùa** — quanh năm
@@ -330,8 +330,8 @@ Mở ở chợ, mở lúc đang nấu. Không đọc từ đầu — gõ tên m�
 | Chất | Mạnh nhất ở chợ mình | Ăn kèm để hấp thu tốt | Tránh trong cùng bữa |
 |---|---|---|---|
 | **Sắt** | 🩸 Tiết · 🫀 Gan lợn · 🥩 Thịt bò · 🍁 Rau dền · 🐠 Cá nục · 🫘 Đậu đen | 🍊 Cam · 🍅 Cà chua · 🍐 Ổi — vitamin C kéo sắt thực vật vào người | 🥛 Sữa · 🧀 Phô mai · trà · nước vối |
-| **Kẽm** | 🦐 Tôm · 🥩 Thịt bò · 🫀 Gan lợn · 🥚 Trứng · 🟤 Vừng | Một chút đạm động vật trong cùng bữa | Ngũ cốc và đậu chưa ngâm |
-| **Canxi** | 🦐 Tép, tôm khô xay cả vỏ · 🦀 Cua đồng · 🌿 Rau ngót · ⬜ Đậu hủ · 🟤 Vừng · 🥣 Sữa chua | Vitamin D — nắng, hoặc viên uống | Ăn mặn, vì muối làm thải canxi qua nước tiểu |
+| **Kẽm** | 🦐 Tôm · 🥩 Thịt bò · 🫀 Gan lợn · 🥚 Trứng · 🟤 Mè | Một chút đạm động vật trong cùng bữa | Ngũ cốc và đậu chưa ngâm |
+| **Canxi** | 🦐 Tép, tôm khô xay cả vỏ · 🦀 Cua đồng · 🌿 Rau ngót · ⬜ Đậu hủ · 🟤 Mè · 🥣 Sữa chua | Vitamin D — nắng, hoặc viên uống | Ăn mặn, vì muối làm thải canxi qua nước tiểu |
 | **Vitamin D** | 🍣 Cá hồi · 🥚 Lòng đỏ trứng — và không món nào đủ | Nắng sớm trước 9 giờ, tay chân hở, 15–20 phút | Nắng qua cửa kính thì vô tác dụng |
 | **Vitamin A** | 🫀 Gan lợn · 🎃 Bí đỏ · 🥕 Cà rốt · 🍠 Khoai lang · 🟠 Đu đủ · 🌿 Rau ngót | Nấu cùng chút dầu, vì vitamin A tan trong dầu | Gan quá 1 lần mỗi tuần thì thừa, tích lại trong người |
 | **Xơ** | 🍠 Khoai lang · 🐉 Thanh long · 🫛 Đậu đũa · 🪴 Rau muống · 🥦 Súp lơ | Uống đủ nước, vì xơ không có nước thì càng táo | Tăng xơ đột ngột gây đầy bụng |
@@ -390,7 +390,12 @@ Mở ở chợ, mở lúc đang nấu. Không đọc từ đầu — gõ tên m�
 | **Muối** | ≤ 0,3 g *(natri ≤ 0,12 g)* | > 1,5 g *(natri > 0,6 g)* |
 | **Chất béo bão hoà** | ≤ 1,5 g | > 5 g |
 
-**Đường thường mang tên khác** — si-rô ngô · si-rô fructose · mạch nha · maltose · dextrose · glucose · đường mía · mật mía · nước ép cô đặc. Có ba bốn cái tên khác nhau trong một danh sách nghĩa là nhà sản xuất đang chia nhỏ để đẩy đường xuống cuối bảng.
+**Đường thường mang tên khác**
+
+- Si-rô ngô · si-rô fructose · mạch nha
+- Maltose · dextrose · glucose
+- Đường mía · mật mía · **nước ép cô đặc**
+- **Ba bốn cái tên khác nhau trong một danh sách** = nhà sản xuất đang chia nhỏ để đẩy đường xuống cuối bảng
 
 **Ba câu đánh lừa hay gặp**
 
