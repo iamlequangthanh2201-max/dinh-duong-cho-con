@@ -517,5 +517,21 @@ def main():
     (HERE / 'index.html').write_text(out, encoding='utf-8')
     print('index.html · %.1f KB' % (len(out.encode('utf-8')) / 1024))
 
+    # Bản đứng riêng cho GitHub Pages — có doctype và khai báo bảng mã,
+    # để mở thẳng bằng trình duyệt cũng đúng dấu tiếng Việt.
+    docs = HERE / 'docs'
+    docs.mkdir(exist_ok=True)
+    page = ('<!doctype html>\n<html lang="vi">\n<head>\n'
+            '<meta charset="utf-8">\n'
+            '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
+            '<meta name="description" content="S\u1ed5 tay dinh d\u01b0\u1ee1ng v\u00e0 n\u1ebfp \u0103n cho con 0\u201312 tu\u1ed5i.">\n'
+            '<link rel="icon" href="data:image/svg+xml,'
+            '%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 32 32%22%3E'
+            '%3Ctext y=%2226%22 font-size=%2226%22%3E%F0%9F%8D%9A%3C/text%3E%3C/svg%3E">\n'
+            '</head>\n<body>\n' + out + '\n</body>\n</html>\n')
+    (docs / 'index.html').write_text(page, encoding='utf-8')
+    (docs / '.nojekyll').write_text('', encoding='utf-8')
+    print('docs/index.html · %.1f KB' % (len(page.encode('utf-8')) / 1024))
+
 if __name__ == '__main__':
     main()
