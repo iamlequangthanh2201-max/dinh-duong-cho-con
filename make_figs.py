@@ -216,6 +216,9 @@ def main():
         base = Image.new('RGBA', (W * S, H * S), BG + (255,))
         base.alpha_composite(layer)
         out = base.convert('RGB').resize((W, H), Image.LANCZOS)
+        # hình phẳng ít màu — dồn về bảng 48 màu, nhẹ đi khoảng ba phần tư
+        # mà mắt không thấy khác
+        out = out.quantize(colors=48, method=Image.MEDIANCUT, dither=Image.NONE)
         out.save(OUT / (name + '.png'), optimize=True)
         print(name + '.png', (OUT / (name + '.png')).stat().st_size // 1024, 'KB')
 
