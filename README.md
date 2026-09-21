@@ -2,6 +2,8 @@
 
 Sổ tay dinh dưỡng và nếp ăn cho trẻ 0–12 tuổi. Khung lấy từ **食育 shokuiku** và hướng dẫn ăn dặm của Nhật *(授乳・離乳の支援ガイド, bản sửa 2019)*, cộng cách quản lý thực phẩm trẻ em của Hàn Quốc, rồi chuyển hết sang điều kiện khí hậu, chợ búa và gia đình Việt Nam — miền Nam.
 
+**Đọc bản đã dựng:** https://iamlequangthanh2201-max.github.io/dinh-duong-cho-con/
+
 Cùng bộ với [Cẩm nang người cha](https://claude.ai/code/artifact/f37dbde6-2eae-493e-b31d-5caa2f23076a) *(EQ)* và [Nền tài chính cho con](https://claude.ai/code/artifact/06f23c50-7c3d-4594-a13e-cf59440b9e0c).
 
 ## Nội dung
@@ -21,10 +23,18 @@ Cùng bộ với [Cẩm nang người cha](https://claude.ai/code/artifact/f37db
 ## Dựng lại
 
 ```bash
-python3 build.py
+python3 build.py      # ghép nội dung thành trang
+python3 make_figs.py  # vẽ lại sáu hình sơ cứu trong img/
 ```
 
-Ghép `styles.css` + `app.js` + các file `.md` thành `index.html` — một file duy nhất, không phụ thuộc gì ngoài font Google.
+`build.py` ghép `styles.css` + `app.js` + các file `.md` thành hai bản:
+
+| File | Dùng làm gì |
+|---|---|
+| `index.html` | Bản thân trang, để đăng lên Artifact |
+| `docs/index.html` | Bản đứng riêng có doctype và bảng mã — GitHub Pages phục vụ từ đây |
+
+Một file duy nhất, ảnh nhúng sẵn, không phụ thuộc gì ngoài font Google.
 
 ## Dữ liệu
 
